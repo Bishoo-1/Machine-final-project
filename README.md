@@ -49,11 +49,11 @@ The models were evaluated using:
 ## Deployment
 
 Streamlit App:
-https://finalproject-cbio313-smplcdurxsg7yzvcjwyvnp.streamlit.app/
+[https://machine-final-project-rmkruqrfevughnyszw2pbu.streamlit.app]
 
 ## GitHub Repository
 
-https://github.com/abdallaahhmohamed-arch/Final_project_CBIO313
+https://github.com/Bishoo-1/Machine-final-project
 
 ## Video 
 
