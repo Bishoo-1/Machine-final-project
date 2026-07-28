@@ -4,8 +4,8 @@
 
 ### Student Information
 
-* Name: Abdallah Mohamed Hassan
-* ID: 221001361
+* Name: Bishoy Abdelshehid
+* ID: 221001760
 * Course: CBIO313 Data Mining and Machine Learning – 2026SPRG
 
 ## Project Overview
@@ -62,6 +62,6 @@ https://drive.google.com/drive/folders/1zl8g2p_zUQQG_r8SKqi26kunwCtYy8AH?usp=dri
 
 ## Author
 
-Abdallah Mohamed Hassan
+Bishoy Abdelshehid
 CBIO313 – Data Mining and Machine Learning
 Nile University
