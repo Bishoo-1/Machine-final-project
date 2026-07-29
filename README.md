@@ -6,7 +6,7 @@
 
 * Name: Bishoy Abdelshehid
 * ID: 221001760
-* Course: CBIO313 Data Mining and Machine Learning – 2026SPRG
+* Course: CBIO313 Data Mining and Machine Learning 
 
 ## Project Overview
 
@@ -40,7 +40,7 @@ The models were evaluated using:
 
 ## Project Files
 
-* ML_Project_Abdalla_finaalproject.ipynb
+* ML_Project_Bishoy_finaalproject.ipynb
 * diabetic_data.csv
 * app.py
 * requirements.txt
