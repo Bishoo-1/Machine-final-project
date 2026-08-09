@@ -46,8 +46,9 @@ The models were evaluated using:
 * requirements.txt
 * scaler.pkl
 * Figures & Results.docx
-* Diabetic Prediction.pptx
-* Final Draft
+* Final Presentation:
+  - Diabetic Prediction.pptx
+* Final Draft:
   - Diabetes Patients Return Prediction Using Machine Learning.docx
 
 ## Deployment
