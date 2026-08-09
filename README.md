@@ -45,6 +45,10 @@ The models were evaluated using:
 * app.py
 * requirements.txt
 * scaler.pkl
+* Figures & Results.docx
+* Diabetic Prediction.pptx
+* Final Draft
+  - Diabetes Patients Return Prediction Using Machine Learning.docx
 
 ## Deployment
 
