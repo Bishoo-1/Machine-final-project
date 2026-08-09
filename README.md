@@ -1,6 +1,6 @@
 # CBIO313 Final Project
 
-## Diabetes Readmission Prediction Using Machine Learning
+## Diabetes patients return Prediction Using Machine Learning
 
 ### Student Information
 
@@ -10,13 +10,13 @@
 
 ## Project Overview
 
-This project aims to predict hospital readmission of diabetic patients using machine learning techniques. The workflow includes data preprocessing, exploratory data analysis, feature engineering, model training, hyperparameter tuning, model evaluation, and web deployment.
+This project focuses on predicting hospital return among diabetic patients using machine learning techniques. The workflow covers data preprocessing, exploratory data analysis, feature engineering, model training, hyperparameter tuning, model evaluation, and web deployment.
 
 ## Dataset
 
-Dataset: Diabetic Patient Readmission Dataset
+Dataset: Diabetic Patient  Dataset
 
-The dataset contains demographic, clinical, and hospital admission information used to predict whether a patient is likely to be readmitted.
+The dataset diabetes patients return Prediction Using Machine Learning contains demographic, clinical, and hospital admission information used to predict whether a patient is likely to be readmitted.
 
 ## Machine Learning Models
 
