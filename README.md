@@ -1,6 +1,6 @@
 # CBIO313 Final Project
 
-## Diabetes patients return Prediction Using Machine Learning
+## Diabetes Patients Return Prediction Using Machine Learning
 
 ### Student Information
 
