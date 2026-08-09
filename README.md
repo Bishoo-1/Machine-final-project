@@ -56,9 +56,7 @@ Streamlit App:
 https://github.com/Bishoo-1/Machine-final-project
 
 ## Video 
-
-https://drive.google.com/drive/folders/1zl8g2p_zUQQG_r8SKqi26kunwCtYy8AH?usp=drive_link
-
+https://drive.google.com/file/d/1K-IQUEcaDRF45dLqFTHQPvFwC7Y2HU_l/view?usp=share_link
 
 ## Author
 
