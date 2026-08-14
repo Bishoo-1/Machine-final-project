@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.title("Diabetes Readmission Prediction")
+st.title("Diabetes Pateints Return Prediction")
 st.write("Enter patient information to predict readmission risk.")
 
 st.subheader("Patient Information")
